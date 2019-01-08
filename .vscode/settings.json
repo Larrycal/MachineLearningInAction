@@ -1,7 +1,0 @@
-{
-    "python.pythonPath": "/usr/local/anaconda3/bin/python",
-    "files.autoSave": "afterDelay",
-    "editor.fontFamily": "Source Code Pro for Powerline",
-    "editor.fontSize": 16,
-    "python.condaPath": "/usr/local/anaconda3/bin/conda",
-}
